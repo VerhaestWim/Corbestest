@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Sep 2024 08:40:48 at https://www.corbes.eu +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "nl, en, *" https://www.corbes.eu -O1 "C:\home\tmp\corbes" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:40:55	Error: 	"Not Found" (404) at link https://www.corbes.eu/c (from https://www.corbes.eu/)
+08:40:55	Error: 	"Not Found" (404) at link https://www.corbes.eu/t (from https://www.corbes.eu/)
+08:42:43	Error: 	"Not Found" (404) at link https://www.corbes.eu/media/emptystate.85a4add5.svg (from https://www.corbes.eu/)
+08:43:02	Error: 	"Not Found" (404) at link https://www.corbes.eu/feed.xml (from https://www.corbes.eu/)
+08:43:24	Error: 	"Not Found" (404) at link https://www.corbes.eu/${i.uri} (from https://www.corbes.eu/)
+08:43:42	Error: 	"Not Found" (404) at link https://www.corbes.eu/decodeURIComponent(e (from https://www.corbes.eu/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 37 seconds : 129 links scanned, 122 files written (20729715 bytes overall), 13 files updated [2052396 bytes received at 4491 bytes/sec], 9832447 bytes transferred using HTTP compression in 19 files, ratio 19%
+(6 errors, 0 warnings, 0 messages)

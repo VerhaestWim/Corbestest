@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.corbes.eu	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1727263482|-RH4KuLP-f0M
+www.corbes.eu	TRUE	/	FALSE	1999999999	SameSite	None
+www.corbes.eu	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_84_g
+
